@@ -1,1 +1,1 @@
-# Visual-_pollution-_Detection_SDAIA
+# Visual_pollution_Detection_SDAIA
